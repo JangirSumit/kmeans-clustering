@@ -19,10 +19,11 @@ NONE
 ## Data volume-4000 records –file driver-data.csv
 
 ## Fields in Data
-•id: Unique Id of the driver 
-•mean_dist_day: Mean distance driven by driver per day
-•mean_over_speed_perc: Mean percentage of time a driver was > 5 mph over the speed limit
+-id: Unique Id of the driver 
+-mean_dist_day: Mean distance driven by driver per day
+-mean_over_speed_perc: Mean percentage of time a driver was > 5 mph over the speed limit
 
 ## Additional information-NA
 
-## Business benefitsIncrease in profits,up to 15-20% as drivers with poor history will be charged more
+## Business benefits
+Increase in profits,up to 15-20% as drivers with poor history will be charged more
